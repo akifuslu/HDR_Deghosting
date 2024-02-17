@@ -1,0 +1,3 @@
+[submodule "packages/BlooGraphics"]
+	path = packages/BlooGraphics
+	url = git@github.com:akifuslu/BlooGraphics.git
